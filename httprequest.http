@@ -1,0 +1,10 @@
+POST http://localhost:8098/api/auth/login
+Content-Type: application/json
+
+{
+  "username": "zoidberg",
+  "password": "zoidberg",
+  "isAuth": true
+}
+
+###
